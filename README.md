@@ -1,1 +1,1 @@
-# Boards for interconnecting rail mounted objects on my 3D printing enclosure setup
+# Boards related to interconnecting rail mounted controllers or power supplies for my 3D printing enclosure.
